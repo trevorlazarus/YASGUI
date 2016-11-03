@@ -77,7 +77,7 @@
     "underscore": "^1.8.3",
     "yasgui-utils": "^1.6.0",
     "yasgui-yasqe": "2.x.x",
-    "yasgui-yasr": "2.x.x"
+    "yasgui-yasr": "git://github.com/OpenTriply/YASGUI.YASR#geo"
   },
   "browserify-shim": {
     "jQuery": "jquery"
