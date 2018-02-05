@@ -109,10 +109,10 @@ $.fn.endpointCombi = function(yasgui, options) {
         storeEndpoints("catalogue");
       },
       optgroups: [
-        {
-          value: "own",
-          label: "History"
-        },
+        // {
+        //   value: "own",
+        //   label: "History"
+        // },
         {
           value: "catalogue",
           label: "Catalogue"
