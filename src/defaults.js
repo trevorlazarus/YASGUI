@@ -60,7 +60,7 @@ module.exports = {
 	 */
   catalogueEndpoints: [
     {
-      endpoint: "http://localhost:3030/test/sparql",
+      endpoint: "http://ld.iospress.nl/ios/sparql",
       title: "IOS Press LD Connect"
     }]
 };
