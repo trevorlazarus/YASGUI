@@ -95965,7 +95965,7 @@ module.exports={
   "_args": [
     [
       "yasgui-utils@1.6.7",
-      "/Users/mike/dev_root/linked-data/YASGUI"
+      "/Users/mike/dev_root/tes/YASGUI"
     ]
   ],
   "_from": "yasgui-utils@1.6.7",
@@ -95991,7 +95991,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/yasgui-utils/-/yasgui-utils-1.6.7.tgz",
   "_spec": "1.6.7",
-  "_where": "/Users/mike/dev_root/linked-data/YASGUI",
+  "_where": "/Users/mike/dev_root/tes/YASGUI",
   "author": {
     "name": "Laurens Rietveld"
   },
@@ -101965,7 +101965,7 @@ module.exports={
   "_args": [
     [
       "yasgui-yasqe@2.11.18",
-      "/Users/mike/dev_root/linked-data/YASGUI"
+      "/Users/mike/dev_root/tes/YASGUI"
     ]
   ],
   "_from": "yasgui-yasqe@2.11.18",
@@ -101989,7 +101989,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/yasgui-yasqe/-/yasgui-yasqe-2.11.18.tgz",
   "_spec": "2.11.18",
-  "_where": "/Users/mike/dev_root/linked-data/YASGUI",
+  "_where": "/Users/mike/dev_root/tes/YASGUI",
   "author": {
     "name": "Laurens Rietveld"
   },
@@ -105575,7 +105575,7 @@ module.exports={
   "_args": [
     [
       "yasgui-yasr@2.12.16",
-      "/Users/mike/dev_root/linked-data/YASGUI"
+      "/Users/mike/dev_root/tes/YASGUI"
     ]
   ],
   "_from": "yasgui-yasr@2.12.16",
@@ -105601,7 +105601,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/yasgui-yasr/-/yasgui-yasr-2.12.16.tgz",
   "_spec": "2.12.16",
-  "_where": "/Users/mike/dev_root/linked-data/YASGUI",
+  "_where": "/Users/mike/dev_root/tes/YASGUI",
   "author": {
     "name": "Laurens Rietveld"
   },
@@ -109096,7 +109096,7 @@ module.exports = {
 	 */
   catalogueEndpoints: [
     {
-      endpoint: "http://localhost:3030/test/sparql",
+      endpoint: "http://ld.iospress.nl:3030/ios/sparql",
       title: "IOS Press LD Connect"
     }]
 };
